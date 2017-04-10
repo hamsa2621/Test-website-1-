@@ -4,16 +4,18 @@ You can use the [editor on GitHub](https://github.com/hamsa2621/Test-website-1-/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Test Website 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Forget the Queens English!
+
+When people skim through a web page it’s much easier for them if you say ‘haven’t or ‘you’re’ instead of ‘have not’ and ‘you are’. Throw away the plum in the mouth and shorten those words.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Test Header 1
+## Test Header 2
+### Test Header 3
 
 - Bulleted
 - List
